@@ -1,4 +1,4 @@
-## Olá! Eu sou o Joaquim Fernandes 👋
+## Olá! Eu sou o *Joaquim Fernandes*👋
 
 - 🌱 Estudando Back-End [Python]
 - 📚 Iniciante em Front-End
