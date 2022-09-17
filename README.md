@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Back-End [Python]
 - 📚 Iniciante em Front-End
-- 🤔 Estou procurando ajuda em Programação Back-End
+- 🤔 Estou procurando ajuda em Programação Back-End & Front-End
 
 <div align="center">
   <a href="https://github.com/joaquimjfernandes">
